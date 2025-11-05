@@ -1,0 +1,15 @@
+feature,xgb_gain
+total_opt_oi,0.18429336
+total_opt_oi_change,0.15756711
+high,0.118617095
+fut_close,0.07067723
+close,0.06479755
+open,0.062543325
+fut_oi,0.058866967
+low,0.056835555
+total_call_oi,0.047869142
+total_put_oi,0.044767722
+volume,0.04076112
+fut_oi_change,0.039990924
+max_call_strike,0.027277334
+max_put_strike,0.025135588
